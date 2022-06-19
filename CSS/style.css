@@ -1,0 +1,149 @@
+:root {
+    --red-color:  #E50914;
+    --dark-color: #120A06;
+}
+header {
+    background-image: url(../img/netflix.jpg);
+    background-size: cover;
+}
+.logo {
+    margin-left: 40px;
+}
+nav .btn1 {
+    background-color: var(--dark-color);
+    border: 1px white solid;
+    margin-left: 890px;
+    margin-right: 30px;
+    color: white;
+    padding: 5px 0px 5px 20px;
+}
+nav option {
+    background-color: #222222;
+}
+nav .btn2 {
+    background-color: var(--red-color);
+}
+.fa-globe {
+    font-size: 12px;
+    margin-right: 3px;
+    color: white;
+    position: relative;
+    left: 919px;
+}
+.fa-caret-down {
+    margin-left: 8px;
+}
+.p1 {
+    font-size: 3.3em;
+    width: 700px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+.p2 {
+    font-size: 1.2em;
+    margin-top: 27px;
+}
+header input {
+    padding: 16px 270px 15px 8px;
+    border: 0;
+}
+header button {
+    background-color: var(--red-color);
+    border: 0;
+    font-size: 1.65em;
+    padding: 4px 35px 12px 35px;
+    margin-left: -3px;
+}
+.fa-angle-right {
+    font-size: 0.8em;
+    padding-left: 10px;
+}
+.sec1 {
+    padding: 150px 0px;
+}
+.sec2 {
+    background-color: #000000;
+}
+.sec2 .p1 {
+    font-size: 3.3em;
+    color: white;
+    margin-bottom: -15px;
+}
+.sec2 .p2 {
+    font-size: 1.6em;
+    color: white;
+    line-height: 1.17;
+}
+.sec2 video {
+    position: relative;
+    bottom: 215px;
+    left: 74px;
+    z-index: 3;
+}
+.sec2 img {
+    position: relative;
+    top: 100px;
+    z-index: 5;
+}
+.sec3 .p1 {
+    font-size: 3.3em;
+    color: white;
+    margin-bottom: -15px;
+    width: 600px;
+    line-height: 1.17;
+}
+.sec3 .p2 {
+    font-size: 1.6em;
+    color: white;
+    line-height: 1.17;
+}
+.down {
+    display: flex;
+    width: 300px;
+    height: 94px;
+    border: 2px solid #404040;
+    border-radius: 10px;
+    position: relative;
+    bottom: 65px;
+    left: 112px;
+    background-color: #000000;
+}
+.downl {
+    position: relative;
+    top: 8px;
+}
+.img-mobile {
+    position: relative;
+    top: 65px;
+}
+.sec3 {
+    background-color: #000000;
+}
+.img-mob {
+    margin-bottom: 60px;
+}
+.hrr {
+    height: 8px;
+    background-color: #222222;
+}
+.sec2 .vid1 {
+    position: relative;
+    bottom: 260px;
+    left: 103px;
+    z-index: 3;
+}
+.sec4 .p1 {
+    font-size: 3.3em;
+    color: white;
+    margin-bottom: -15px;
+    width: 600px;
+    line-height: 1.17;
+}
+.sec4 .p2 {
+    font-size: 1.6em;
+    color: white;
+    line-height: 1.17;
+}
+.sec4 {
+    background-color: #000000;
+}
